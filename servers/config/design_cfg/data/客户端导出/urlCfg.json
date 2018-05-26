@@ -1,0 +1,19 @@
+{
+	"CN": {
+
+	},
+	"EN": {
+
+	},
+	"VN": {
+
+	},
+	"VNL": {
+	
+	},
+	"example": {
+		"version": "版本号 客户端版本号大于次版本号会用testUrl地址 否则用lineUrl地址 比如 1.0.0",
+		"lineUrl": "线上地址 gate.thosanca.vn",
+		"testUrl": "测试地址 gate.thosanca.vn"
+	}
+}

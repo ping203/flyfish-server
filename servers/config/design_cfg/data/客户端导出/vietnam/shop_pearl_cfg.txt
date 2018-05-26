@@ -1,0 +1,110 @@
+	"shop_pearl_cfg.json": [
+		{
+			"id": 1,
+			"funid": 9055,
+			"funidiOS": 9476,
+			"iOS": "com.fishjoy.product1",
+			"icon": "zs6_1",
+			"buyCost": [["r001",10000]],
+			"price": 10000,
+			"item": 30,
+			"firstratio": 1,
+			"name": "30钻石"
+		},
+		{
+			"id": 2,
+			"funid": 9056,
+			"funidiOS": 9477,
+			"iOS": "com.fishjoy.product2",
+			"icon": "zs10_1",
+			"buyCost": [["r001",20000]],
+			"price": 20000,
+			"item": 60,
+			"firstratio": 1,
+			"name": "60钻石"
+		},
+		{
+			"id": 3,
+			"funid": 9072,
+			"funidiOS": 9493,
+			"iOS": "com.fishjoy.product3",
+			"icon": "zs18_1",
+			"buyCost": [["r001",30000]],
+			"price": 30000,
+			"item": 90,
+			"firstratio": 1,
+			"name": "90钻石"
+		},
+		{
+			"id": 4,
+			"funid": 9058,
+			"funidiOS": 9479,
+			"iOS": "com.fishjoy.product4",
+			"icon": "zs28_1",
+			"buyCost": [["r001",50000]],
+			"price": 50000,
+			"item": 150,
+			"firstratio": 1,
+			"name": "150钻石"
+		},
+		{
+			"id": 5,
+			"funid": 9075,
+			"funidiOS": 9496,
+			"iOS": "com.fishjoy.product5",
+			"icon": "zs48_1",
+			"buyCost": [["r001",100000]],
+			"price": 100000,
+			"item": 300,
+			"firstratio": 1,
+			"name": "300钻石"
+		},
+		{
+			"id": 7,
+			"funid": 9060,
+			"funidiOS": 9481,
+			"iOS": "com.fishjoy.product6",
+			"icon": "zs98_1",
+			"buyCost": [["r001",200000]],
+			"price": 200000,
+			"item": 600,
+			"firstratio": 1,
+			"name": "600钻石"
+		},
+		{
+			"id": 8,
+			"funid": 9061,
+			"funidiOS": 9482,
+			"iOS": "com.fishjoy.product7",
+			"icon": "zs168_1",
+			"buyCost": [["r001",300000]],
+			"price": 300000,
+			"item": 900,
+			"firstratio": 1,
+			"name": "900钻石"
+		},
+		{
+			"id": 9,
+			"funid": 9062,
+			"funidiOS": 9483,
+			"iOS": "com.fishjoy.product8",
+			"icon": "zs268_1",
+			"buyCost": [["r001",500000]],
+			"price": 500000,
+			"item": 1500,
+			"firstratio": 1,
+			"name": "1500钻石"
+		},
+		{
+			"id": 10,
+			"funid": 9063,
+			"funidiOS": 9484,
+			"iOS": "com.fishjoy.product9",
+			"icon": "zs468_1",
+			"buyCost": [["r001",1000000]],
+			"price": 1000000,
+			"item": 3000,
+			"firstratio": 1,
+			"name": "3000钻石"
+		}
+	]
